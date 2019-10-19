@@ -69,7 +69,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table>
+<table>[]
   <tr>
     <td align="center"><a href="https://github.com/filipe-gomes"><img src="https://avatars1.githubusercontent.com/u/42053052?v=4" width="100px;" alt="Filipe Magalhaes Gomes"/><br /><sub><b>Filipe Magalhaes Gomes</b></sub></a><br /><a href="#content-filipe-gomes" title="Content">🖋</a></td>
     <td align="center"><a href="https://mkkhedawat.github.io/"><img src="https://avatars2.githubusercontent.com/u/5137374?v=4" width="100px;" alt="Manish Kumar Khedawat"/><br /><sub><b>Manish Kumar Khedawat</b></sub></a><br /><a href="https://github.com/up-for-grabs/up-for-grabs.net/commits?author=mkkhedawat" title="Code">💻</a></td>
